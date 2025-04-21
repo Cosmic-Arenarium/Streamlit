@@ -4,7 +4,7 @@ import openai
  
 
 # Title
-st.title("🎬 Movie Rating Predictor")
+st.title("🎬 Movie Rating Predictor 123")
 st.write("Enter a movie summary and get a predicted IMDb rating.")
 
 # Text input from user
